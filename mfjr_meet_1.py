@@ -1,5 +1,10 @@
-#print:untuk menampilkan suatu baris
-print('Nama\t: Muhammad Fadhillah Januar Rohman\nNIM\t: 2605060053\nTTL\t: 20 Januari 2009\nGender\t: Laki-laki\nHobi\t: Bersepeda, Bulu Tangkis, Menggambar')
+print('Nama\t: Muhammad Fadhillah Januar Rohman')
+print('NIM\t: 2605060053')
+print('Kelas\t: R3')
+print('Prodi\t: Teknologi Informasi')
+print('Fakultas\t: Fakultas Teknik')
+print('Hobi\t: Menulis, Bersepeda, Bulu Tangkis')
+
 
 
       
